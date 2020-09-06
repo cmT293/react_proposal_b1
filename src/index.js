@@ -43,6 +43,12 @@ ReactDOM.render(
 
     // document.getElementById('root'),
 
+// style
+//
+
+
+
+
 <body>
     <header>
       <div className={"main_menu"}>
@@ -806,7 +812,7 @@ ReactDOM.render(
                 <button class="click-btn btn btn-default">
                   <span>subscribe</span>
                 </button>
-                <div style="position: absolute; left: -5000px;">
+                <div style={{position: absolute left:-5000px}}>
                   <input
                     name="b_36c4fd991d266f23781ded980_aefe40901a"
                     tabindex="-1"
